@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**lilyanavalley/lilyanavalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ໒{๏ᴥ๏}ʋ
 
-Here are some ideas to get you started:
+Hello!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Lily Ana Valley, and welcome to my GitHub. I [run a website](https://lilyvalley.dev) which details my engineering work, plus a bunch of texts and possibly interesting content. Go check that out, if you're interested.
+
+I write software:
+- for myself & the FOSS community,
+- using languages including:
+  - 🦀 Rust
+  - 🅲++ *or* good 'ol ANSI 🄲
+  - 🐍 Python 3
+  - 💨 Swift
+  - 🎯 Dart
+  - 🧱 RISC-V Assembly *or* Intel x86 Assembly
+- to make:
+  - websites & webservices
+  - 2D/3D/CLI games
+  - IoT devices
+  - Embedded firmware
+  - Mobile apps (mostly for iOS, since that's what I daily drive.)
+- plus, some experimentation to keep the brain soaked in dopamine.
+
+Additionally, I find a lot of joy in the sciences of technology, psychology, and artistic hobbies like making electronic music, drawing, calligraphy and 3D printing. If you'd like to know more about all of this (and maybe some oddities thrown in), please do visit my site! I go into detail there, and I promise there's no ads, popups, half-page banners or any sort of pestering. It's all content I, myself, like to see (and not much else. 😛)
+
+I'm also on [GitLab](https://gitlab.com/lilyanavalley) (although, there's not much there...)
+
+Thanks for stopping by!
+----
+
+![Pronouns page depicting she/her, it/its, they/them as options. Press on the link below to see the full list!](https://cdn.pronouns.page/card/en/lilyvalley.dev-01K41ECW8ZZS8ZXXH46CTS192G-dark.png)
+https://en.pronouns.page/@lilyvalley.dev
