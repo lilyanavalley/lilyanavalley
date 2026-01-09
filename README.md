@@ -29,5 +29,5 @@ I'm also on [GitLab](https://gitlab.com/lilyanavalley) (although, there's not mu
 Thanks for stopping by!
 ----
 
-<iframe src="https://en.pronouns.page/card/@lilyvalley.dev" style="border:0; width:100%; height:400px;" loading="lazy" referrerpolicy="no-referrer"><a href="https://en.pronouns.page/@lilyvalley.dev" target="_blank" rel="noopener">@lilyvalley.dev</a></iframe>
+[!Pronouns She/Her It/It's](https://cdn.pronouns.page/card/en/lilyvalley.dev-01KEG603X2Q4FESJ66W4DQ8YR7-dark.png)
 https://en.pronouns.page/@lilyvalley.dev
